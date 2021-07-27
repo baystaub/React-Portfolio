@@ -7,24 +7,24 @@ function Navigation(props) {
     <div>
       <Navbar expand="lg" bg="dark" sticky="top">
         <NavLink className="nav-link" to="/">
-          <div class="text-light">
-            <h4 class="nav-title-font">Bailey Staub</h4>
+          <div className="text-light">
+            <h4 className="nav-title-font">Bailey Staub</h4>
           </div>
         </NavLink>
-        <ul class="navbar-nav ml-auto navitem-indent">
-          <li class="nav-item">
+        <ul className="navbar-nav ml-auto navitem-indent">
+          <li className="nav-item">
             <NavLink to="/about">
-              <div class="nav-font text-light p-1 mb-1">About-Me</div>
+              <div className="nav-font text-light p-1 mb-1">About-Me</div>
             </NavLink> 
           </li>
-          <li class="nav-item">
+          <li className="nav-item">
             <NavLink to="/contact">
-              <div class="nav-font text-light p-1 mb-1">Contact</div>
+              <div className="nav-font text-light p-1 mb-1">Contact</div>
             </NavLink>
           </li>
-          <li class="nav-item">
+          <li className="nav-item">
             <NavLink to="/resume">
-              <div class="nav-font text-light p-1 mb-1">Resume</div>
+              <div className="nav-font text-light p-1 mb-1">Resume</div>
             </NavLink>
           </li>
         </ul>
