@@ -18,7 +18,6 @@ class Header extends Component {
             <Route exact path="/" render={() => <Redirect to="/about" />} />
             <Route path="/about" component={About} />
             <Route path="/contact" component={Contact}/>
-            {/* <Route path="/resume" component={Resume}/> */}
           </div>
         </HashRouter>
       );
