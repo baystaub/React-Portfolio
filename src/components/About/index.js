@@ -18,7 +18,9 @@ function About() {
           managerment and leadership experiance. proven track record of problem
           solving and finding creative solutions.
         </p>
-        <p>Young proffesional ready to hit the ground running!</p>
+        <div>
+          <p>Young proffesional ready to hit the ground running!</p>
+        </div>
       </div>
     </section>
   );
