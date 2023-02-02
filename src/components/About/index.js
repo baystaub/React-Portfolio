@@ -9,7 +9,7 @@ function About() {
         <img
           className="mb-5 img-fluid"
           id="avatar"
-          src="https://res.cloudinary.com/aintyourmamascooking/image/upload/v1630953633/portfolio/BaileyPortfolio_zywlu2.jpg"
+          src="https://res.cloudinary.com/aintyourmamascooking/image/upload/v1675300680/portfolio/profile_pic_witsmy.jpg"
           alt="Bailey Staub"
         />
 
